@@ -1,2 +1,5 @@
-*.agdai
-MAlonzo/**
+*_old
+*_backup
+Thumb.db
+.DS_Store
+tmp/**
